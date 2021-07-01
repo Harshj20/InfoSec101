@@ -1,7 +1,8 @@
-#PASSWORD
+# PASSWORD
+
 `w6cE}oW`
 
-#APPROACH
+# APPROACH
 
 At first, I inspected the 'main' function. At the second instruction there was a call to a function called
 'create password'. So I hopped to explore it. It was clear that the password was hardcoded for memory address
