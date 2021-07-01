@@ -1,7 +1,9 @@
-#Password
+# Password
+
 36263b4023623e47 (in Hex)
 
-#APPROACH
+# APPROACH
+
 As usual, I Started with 'main'. The element which was worth inspecting was 'check password' at 0X444c.
 As New orleans, the password here too was hardcoded.
 In the New orleans level, I had Googled the use of 'mov.b' after which I got to know that .b suffix is used for byte operation and if .b suffix in not present then word operation is done.
